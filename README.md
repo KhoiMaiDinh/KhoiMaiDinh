@@ -7,24 +7,13 @@
 
 <p align='center'>
    <a href="www.linkedin.com/in/khoi-md"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100008664186009"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
-
+<a href="https://www.facebook.com/profile.php?id=100008664186009"><img height="32" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="mailto:khoimd.dev@gmail.com"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/mail.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Mai Dinh Khoi | 💻 Software Developer | 🇻🇳 Ho Chi Minh, Viet Nam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-<p align="center">
-   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=KhoiMaiDinh.KhoiMaiDinh"> <img alt="Khoi's github" src="https://visitor-badge.glitch.me/badge?page_id=KhoiMaiDinh.KhoiMaiDinh"> </a>
- </p>
- 
- <h5 align="center">
-   <!-- <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i> -->
-  </h5>
- 
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/code.gif" />
@@ -32,15 +21,15 @@
   <h3> I'm 21 years old Full-Stack developer from Viet Nam.</h3>
 </p>
 
--   🌱 Currently learning VueJS
-
--   <i>with Javascript, Typescript, React and many others.</i>
+-   🌱 Currently learning VueJS <i>with Javascript, Typescript, React and many others.</i>
 
 -   🤝 Into collaborations for out-standing products.
 
--   I do fullstack and a bit of everything :heart:
+-   :heart: I do fullstack and a bit of everything 
 
--   💬 Connect? let's get social 👉🏼[<img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/social/linkedin.svg" >](www.linkedin.com/in/khoi-md)
+-   💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/social/linkedin.svg" >](www.linkedin.com/in/khoi-md)
+
+-   ⚡ Fun fact: I'm a coffee and football lover.
 
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
@@ -50,7 +39,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=KhoiMaiDinh&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=KhoiMaiDinh&&show_icons=true&theme=radical&hide=stars,issues"/>
   </a>
 
 </p>
@@ -99,5 +88,5 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/Bottom.svg" alt="Bottom" />
 </p>
