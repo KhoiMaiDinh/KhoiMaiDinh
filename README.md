@@ -7,7 +7,7 @@
 
 <p align='center'>
    <a href="www.linkedin.com/in/khoi-md"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100008664186009"><img height="32" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100008664186009"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
    <a href="mailto:khoimd.dev@gmail.com"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/mail.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
