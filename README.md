@@ -27,7 +27,7 @@
 
 -   :heart: I do fullstack and a bit of everything 
 
--   💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/social/linkedin.svg" >](www.linkedin.com/in/khoi-md)
+-   💬 Connect? Let's get social 👉🏼<a href="www.linkedin.com/in/khoi-md" target="_blank"><img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/social/linkedin.svg" ></a>
 
 -   ⚡ Fun fact: I'm a coffee and football lover.
 
