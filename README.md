@@ -6,8 +6,8 @@
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/khoi-md"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100008664186009"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="www.linkedin.com/in/khoi-md" target="_blank"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100008664186009 target="_blank""><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
    <a href="mailto:khoimd.dev@gmail.com"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/mail.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
@@ -66,16 +66,6 @@
   <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg">
-  </a>
-</p>
--->
 
 <h2 align="center">🤝 Support</h2>
 
