@@ -47,24 +47,21 @@
 <br />
 
 ### - Languages and Tools...
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"/></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&labelColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/microsoftazure-%230078D7?style=for-the-badge&logo=microsoftazure&labelColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/visualstudiocode-%23007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black"/></a>
+</div>
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+
+
+
 
 
 <h2 align="center">🤝 Support</h2>
