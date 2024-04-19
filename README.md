@@ -6,7 +6,7 @@
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/khoi-md" target="_blank"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/khoi-md" target="_blank"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100008664186009 target="_blank""><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/facebook.png?raw=true"></a>&nbsp;&nbsp;
    <a href="mailto:khoimd.dev@gmail.com"><img height="30" src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/mail.png?raw=true"></a>&nbsp;&nbsp;
  </p>
@@ -27,7 +27,7 @@
 
 -   :heart: I do fullstack and a bit of everything 
 
--   💬 Connect? Let's get social 👉🏼<a href="www.linkedin.com/in/khoi-md" target="_blank"><img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/social/linkedin.svg" ></a>
+-   💬 Connect? Let's get social 👉🏼<a href="https://www.linkedin.com/in/khoi-md" target="_blank"><img src="https://raw.githubusercontent.com/KhoiMaiDinh/KhoiMaiDinh/main/svg/social/linkedin.svg" ></a>
 
 -   ⚡ Fun fact: I'm a coffee and football lover.
 
